@@ -15,6 +15,10 @@ public class DependonMethod {
 	public void HomePage()
 	{
 		System.out.println("This is my homepage");
+		System.out.println("This is my homepage");
+		System.out.println("This is my homepage");
+		System.out.println("This is my homepage");
+		System.out.println("This is my homepage");
 	}
 	@Test
 	public void MyTransactionScreen()
