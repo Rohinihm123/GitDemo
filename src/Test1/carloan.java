@@ -15,10 +15,10 @@ public class carloan {
 	public void WebLoginCarloan()
 	{
 		System.out.println("Weblogincarloan");
-		System.out.println("Weblogincarloan")
-		System.out.println("Weblogincarloan")
-		System.out.println("Weblogincarloan")
-		System.out.println("Weblogincarloan")
+		System.out.println("Weblogincarloan");
+		System.out.println("Weblogincarloan");
+		System.out.println("Weblogincarloan");
+		System.out.println("Weblogincarloan");
 	}
 	@Test
 	public void MobileLoginCarloan()
