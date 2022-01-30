@@ -21,5 +21,10 @@ public class DependonMethod {
 	{
 		System.out.println("This is my transaction screen");
 	}
+	@Test
+	public void MyTransactionScreen1()
+	{
+		System.out.println("This is my transaction screen1");
+	}
 
 }
